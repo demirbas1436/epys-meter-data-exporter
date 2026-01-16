@@ -295,12 +295,14 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ---
 
-## 👤 İletişim
+## 📧 İletişim
 
-Proje Sahibi - [@kullaniciadi](https://github.com/kullaniciadi)
+**Murat Demirbaş**
 
-Proje Linki: [https://github.com/kullaniciadi/epys-meter-data-exporter](https://github.com/kullaniciadi/epys-meter-data-exporter)
-
+- 📧 E-posta: [demirbas1436@gmail.com](mailto:demirbas1436@gmail.com)
+- 📱 Telefon: 05365689025
+- 💼 LinkedIn: [linkedin.com/in/muratdemirbas1436](https://tr.linkedin.com/in/muratdemirbas1436)
+- ⭐ GitHub: [github.com/demirbas1436](https://github.com/demirbas1436)
 ---
 
 ## 🙏 Teşekkürler
